@@ -1,0 +1,2 @@
+g++ main.cpp decompress_rle.cpp compress_rle.cpp -o main
+./main
